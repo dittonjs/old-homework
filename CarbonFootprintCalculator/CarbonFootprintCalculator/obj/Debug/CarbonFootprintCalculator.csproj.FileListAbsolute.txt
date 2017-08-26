@@ -1,0 +1,9 @@
+c:\users\ditto_000\documents\visual studio 2013\Projects\CarbonFootprintCalculator\CarbonFootprintCalculator\bin\Debug\CarbonFootprintCalculator.exe.config
+c:\users\ditto_000\documents\visual studio 2013\Projects\CarbonFootprintCalculator\CarbonFootprintCalculator\bin\Debug\CarbonFootprintCalculator.exe
+c:\users\ditto_000\documents\visual studio 2013\Projects\CarbonFootprintCalculator\CarbonFootprintCalculator\bin\Debug\CarbonFootprintCalculator.pdb
+c:\users\ditto_000\documents\visual studio 2013\Projects\CarbonFootprintCalculator\CarbonFootprintCalculator\obj\Debug\CarbonFootprintCalculator.csprojResolveAssemblyReference.cache
+c:\users\ditto_000\documents\visual studio 2013\Projects\CarbonFootprintCalculator\CarbonFootprintCalculator\obj\Debug\CarbonFootprintCalculator.MainForm.resources
+c:\users\ditto_000\documents\visual studio 2013\Projects\CarbonFootprintCalculator\CarbonFootprintCalculator\obj\Debug\CarbonFootprintCalculator.Properties.Resources.resources
+c:\users\ditto_000\documents\visual studio 2013\Projects\CarbonFootprintCalculator\CarbonFootprintCalculator\obj\Debug\CarbonFootprintCalculator.csproj.GenerateResource.Cache
+c:\users\ditto_000\documents\visual studio 2013\Projects\CarbonFootprintCalculator\CarbonFootprintCalculator\obj\Debug\CarbonFootprintCalculator.exe
+c:\users\ditto_000\documents\visual studio 2013\Projects\CarbonFootprintCalculator\CarbonFootprintCalculator\obj\Debug\CarbonFootprintCalculator.pdb

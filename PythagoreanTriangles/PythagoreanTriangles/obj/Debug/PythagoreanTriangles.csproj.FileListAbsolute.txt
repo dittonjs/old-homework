@@ -1,0 +1,6 @@
+c:\users\ditto_000\documents\visual studio 2013\Projects\PythagoreanTriangles\PythagoreanTriangles\bin\Debug\PythagoreanTriangles.exe.config
+C:\Users\ditto_000\documents\visual studio 2013\Projects\PythagoreanTriangles\PythagoreanTriangles\bin\Debug\PythagoreanTriangles.exe
+C:\Users\ditto_000\documents\visual studio 2013\Projects\PythagoreanTriangles\PythagoreanTriangles\bin\Debug\PythagoreanTriangles.pdb
+C:\Users\ditto_000\documents\visual studio 2013\Projects\PythagoreanTriangles\PythagoreanTriangles\obj\Debug\PythagoreanTriangles.csprojResolveAssemblyReference.cache
+C:\Users\ditto_000\documents\visual studio 2013\Projects\PythagoreanTriangles\PythagoreanTriangles\obj\Debug\PythagoreanTriangles.exe
+C:\Users\ditto_000\documents\visual studio 2013\Projects\PythagoreanTriangles\PythagoreanTriangles\obj\Debug\PythagoreanTriangles.pdb

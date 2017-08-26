@@ -1,0 +1,5 @@
+c:\users\ditto_000\documents\visual studio 2013\Projects\ColorLibrary\ColorLibrary\bin\Debug\ColorLibrary.dll
+c:\users\ditto_000\documents\visual studio 2013\Projects\ColorLibrary\ColorLibrary\bin\Debug\ColorLibrary.pdb
+c:\users\ditto_000\documents\visual studio 2013\Projects\ColorLibrary\ColorLibrary\obj\Debug\ColorLibrary.csprojResolveAssemblyReference.cache
+c:\users\ditto_000\documents\visual studio 2013\Projects\ColorLibrary\ColorLibrary\obj\Debug\ColorLibrary.dll
+c:\users\ditto_000\documents\visual studio 2013\Projects\ColorLibrary\ColorLibrary\obj\Debug\ColorLibrary.pdb

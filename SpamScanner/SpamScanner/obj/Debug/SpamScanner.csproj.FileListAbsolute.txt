@@ -1,0 +1,9 @@
+c:\users\ditto_000\documents\visual studio 2013\Projects\SpamScanner\SpamScanner\bin\Debug\SpamScanner.exe.config
+c:\users\ditto_000\documents\visual studio 2013\Projects\SpamScanner\SpamScanner\obj\Debug\SpamScanner.csprojResolveAssemblyReference.cache
+c:\users\ditto_000\documents\visual studio 2013\Projects\SpamScanner\SpamScanner\obj\Debug\SpamScanner.Form1.resources
+c:\users\ditto_000\documents\visual studio 2013\Projects\SpamScanner\SpamScanner\obj\Debug\SpamScanner.Properties.Resources.resources
+c:\users\ditto_000\documents\visual studio 2013\Projects\SpamScanner\SpamScanner\obj\Debug\SpamScanner.csproj.GenerateResource.Cache
+c:\users\ditto_000\documents\visual studio 2013\Projects\SpamScanner\SpamScanner\bin\Debug\SpamScanner.exe
+c:\users\ditto_000\documents\visual studio 2013\Projects\SpamScanner\SpamScanner\bin\Debug\SpamScanner.pdb
+c:\users\ditto_000\documents\visual studio 2013\Projects\SpamScanner\SpamScanner\obj\Debug\SpamScanner.exe
+c:\users\ditto_000\documents\visual studio 2013\Projects\SpamScanner\SpamScanner\obj\Debug\SpamScanner.pdb

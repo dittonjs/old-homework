@@ -1,0 +1,11 @@
+c:\users\ditto_000\documents\visual studio 2013\Projects\BillCalculator\BillCalculator\bin\Debug\BillCalculator.exe.config
+c:\users\ditto_000\documents\visual studio 2013\Projects\BillCalculator\BillCalculator\bin\Debug\BillCalculator.exe
+c:\users\ditto_000\documents\visual studio 2013\Projects\BillCalculator\BillCalculator\bin\Debug\BillCalculator.pdb
+c:\users\ditto_000\documents\visual studio 2013\Projects\BillCalculator\BillCalculator\obj\Debug\BillCalculator.csprojResolveAssemblyReference.cache
+c:\users\ditto_000\documents\visual studio 2013\Projects\BillCalculator\BillCalculator\obj\Debug\BillCalculator.mainForm.resources
+c:\users\ditto_000\documents\visual studio 2013\Projects\BillCalculator\BillCalculator\obj\Debug\BillCalculator.LoginForm.resources
+c:\users\ditto_000\documents\visual studio 2013\Projects\BillCalculator\BillCalculator\obj\Debug\BillCalculator.Properties.Resources.resources
+c:\users\ditto_000\documents\visual studio 2013\Projects\BillCalculator\BillCalculator\obj\Debug\BillCalculator.csproj.GenerateResource.Cache
+c:\users\ditto_000\documents\visual studio 2013\Projects\BillCalculator\BillCalculator\obj\Debug\BillCalculator.exe
+c:\users\ditto_000\documents\visual studio 2013\Projects\BillCalculator\BillCalculator\obj\Debug\BillCalculator.pdb
+c:\users\ditto_000\documents\visual studio 2013\Projects\BillCalculator\BillCalculator\obj\Debug\BillCalculator.BillCalcForm.resources

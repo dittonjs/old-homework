@@ -1,0 +1,77 @@
+﻿Build started 12/1/2014 10:28:11 AM.
+     1>Project "C:\Users\ditto_000\documents\visual studio 2013\Projects\LionHeartToo\LionHeartToo\LionHeartToo.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt lionheart.cpp trd.cpp
+         trd.cpp
+     1>c:\users\ditto_000\documents\visual studio 2013\projects\lionhearttoo\lionhearttoo\trd.cpp(161): warning C4101: 'td' : unreferenced local variable
+         Generating Code...
+     1>c:\users\ditto_000\documents\visual studio 2013\projects\lionhearttoo\lionhearttoo\trd.cpp(122): warning C4715: 'checkKing' : not all control paths return a value
+     1>c:\users\ditto_000\documents\visual studio 2013\projects\lionhearttoo\lionhearttoo\trd.cpp(694): warning C4715: 'trd::Recommendation' : not all control paths return a value
+         Compiling...
+         lionheart.cpp
+     1>c:\users\ditto_000\documents\visual studio 2013\projects\lionhearttoo\lionhearttoo\lionheart.cpp(109): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ditto_000\documents\visual studio 2013\projects\lionhearttoo\lionhearttoo\lionheart.cpp(465): warning C4101: 'i' : unreferenced local variable
+     1>c:\users\ditto_000\documents\visual studio 2013\projects\lionhearttoo\lionhearttoo\lionheart.cpp(489): warning C4101: 'tr' : unreferenced local variable
+     1>c:\users\ditto_000\documents\visual studio 2013\projects\lionhearttoo\lionhearttoo\lionheart.cpp(489): warning C4101: 'tc' : unreferenced local variable
+     1>c:\users\ditto_000\documents\visual studio 2013\projects\lionhearttoo\lionhearttoo\lionheart.cpp(693): warning C4101: 'j' : unreferenced local variable
+     1>c:\users\ditto_000\documents\visual studio 2013\projects\lionhearttoo\lionhearttoo\lionheart.cpp(892): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ditto_000\documents\visual studio 2013\Projects\LionHeartToo\Debug\LionHeartToo.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\ditto_000\documents\visual studio 2013\Projects\LionHeartToo\Debug\LionHeartToo.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ditto_000\documents\visual studio 2013\Projects\LionHeartToo\Debug\LionHeartToo.lib" /MACHINE:X86 Debug\acs.obj
+         Debug\acy.obj
+         Debug\als.obj
+         Debug\ama.obj
+         Debug\amb.obj
+         Debug\ask.obj
+         Debug\bhg.obj
+         Debug\bob.obj
+         Debug\cbg.obj
+         Debug\cdj.obj
+         Debug\cdv.obj
+         Debug\cfl.obj
+         Debug\cgm.obj
+         Debug\cjs.obj
+         Debug\cmr.obj
+         Debug\crr.obj
+         Debug\dah.obj
+         Debug\dww.obj
+         Debug\ewh.obj
+         Debug\fts.obj
+         Debug\gbm.obj
+         Debug\gdo.obj
+         Debug\ggv.obj
+         Debug\gwb.obj
+         Debug\jcl.obj
+         Debug\jcs.obj
+         Debug\jgh.obj
+         Debug\jkc.obj
+         Debug\kbl.obj
+         Debug\kp7.obj
+         Debug\lif.obj
+         Debug\lionheart.obj
+         Debug\mav.obj
+         Debug\mmk.obj
+         Debug\mpt.obj
+         Debug\nmn.obj
+         Debug\oku.obj
+         Debug\pja.obj
+         Debug\pwr.obj
+         Debug\rac.obj
+         Debug\rhw.obj
+         Debug\rkt.obj
+         Debug\sam.obj
+         Debug\ski.obj
+         Debug\sol.obj
+         Debug\swc.obj
+         Debug\tah.obj
+         Debug\trd.obj
+         Debug\trj.obj
+         Debug\unit.obj
+         Debug\wig.obj
+         Debug\zjt.obj
+         LionHeartToo.vcxproj -> C:\Users\ditto_000\documents\visual studio 2013\Projects\LionHeartToo\Debug\LionHeartToo.exe
+     1>Done Building Project "C:\Users\ditto_000\documents\visual studio 2013\Projects\LionHeartToo\LionHeartToo\LionHeartToo.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.71

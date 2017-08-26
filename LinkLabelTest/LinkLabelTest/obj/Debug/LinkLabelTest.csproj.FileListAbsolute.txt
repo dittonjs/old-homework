@@ -1,0 +1,9 @@
+c:\users\ditto_000\documents\visual studio 2013\Projects\LinkLabelTest\LinkLabelTest\bin\Debug\LinkLabelTest.exe.config
+c:\users\ditto_000\documents\visual studio 2013\Projects\LinkLabelTest\LinkLabelTest\bin\Debug\LinkLabelTest.exe
+c:\users\ditto_000\documents\visual studio 2013\Projects\LinkLabelTest\LinkLabelTest\bin\Debug\LinkLabelTest.pdb
+c:\users\ditto_000\documents\visual studio 2013\Projects\LinkLabelTest\LinkLabelTest\obj\Debug\LinkLabelTest.csprojResolveAssemblyReference.cache
+c:\users\ditto_000\documents\visual studio 2013\Projects\LinkLabelTest\LinkLabelTest\obj\Debug\LinkLabelTest.Form1.resources
+c:\users\ditto_000\documents\visual studio 2013\Projects\LinkLabelTest\LinkLabelTest\obj\Debug\LinkLabelTest.Properties.Resources.resources
+c:\users\ditto_000\documents\visual studio 2013\Projects\LinkLabelTest\LinkLabelTest\obj\Debug\LinkLabelTest.csproj.GenerateResource.Cache
+c:\users\ditto_000\documents\visual studio 2013\Projects\LinkLabelTest\LinkLabelTest\obj\Debug\LinkLabelTest.exe
+c:\users\ditto_000\documents\visual studio 2013\Projects\LinkLabelTest\LinkLabelTest\obj\Debug\LinkLabelTest.pdb

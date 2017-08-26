@@ -1,0 +1,6 @@
+c:\users\ditto_000\documents\visual studio 2013\Projects\Homework4AbstractClasses\Homework4AbstractClasses\bin\Debug\Homework4AbstractClasses.exe.config
+c:\users\ditto_000\documents\visual studio 2013\Projects\Homework4AbstractClasses\Homework4AbstractClasses\obj\Debug\Homework4AbstractClasses.csprojResolveAssemblyReference.cache
+C:\Users\ditto_000\documents\visual studio 2013\Projects\Homework4AbstractClasses\Homework4AbstractClasses\bin\Debug\Homework4AbstractClasses.exe
+C:\Users\ditto_000\documents\visual studio 2013\Projects\Homework4AbstractClasses\Homework4AbstractClasses\bin\Debug\Homework4AbstractClasses.pdb
+C:\Users\ditto_000\documents\visual studio 2013\Projects\Homework4AbstractClasses\Homework4AbstractClasses\obj\Debug\Homework4AbstractClasses.exe
+C:\Users\ditto_000\documents\visual studio 2013\Projects\Homework4AbstractClasses\Homework4AbstractClasses\obj\Debug\Homework4AbstractClasses.pdb

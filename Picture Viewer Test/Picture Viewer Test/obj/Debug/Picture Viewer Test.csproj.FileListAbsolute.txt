@@ -1,0 +1,9 @@
+c:\users\ditto_000\documents\visual studio 2013\Projects\Picture Viewer Test\Picture Viewer Test\bin\Debug\Picture Viewer Test.exe.config
+c:\users\ditto_000\documents\visual studio 2013\Projects\Picture Viewer Test\Picture Viewer Test\bin\Debug\Picture Viewer Test.exe
+c:\users\ditto_000\documents\visual studio 2013\Projects\Picture Viewer Test\Picture Viewer Test\bin\Debug\Picture Viewer Test.pdb
+c:\users\ditto_000\documents\visual studio 2013\Projects\Picture Viewer Test\Picture Viewer Test\obj\Debug\Picture Viewer Test.csprojResolveAssemblyReference.cache
+c:\users\ditto_000\documents\visual studio 2013\Projects\Picture Viewer Test\Picture Viewer Test\obj\Debug\Picture_Viewer_Test.Form1.resources
+c:\users\ditto_000\documents\visual studio 2013\Projects\Picture Viewer Test\Picture Viewer Test\obj\Debug\Picture_Viewer_Test.Properties.Resources.resources
+c:\users\ditto_000\documents\visual studio 2013\Projects\Picture Viewer Test\Picture Viewer Test\obj\Debug\Picture Viewer Test.csproj.GenerateResource.Cache
+c:\users\ditto_000\documents\visual studio 2013\Projects\Picture Viewer Test\Picture Viewer Test\obj\Debug\Picture Viewer Test.exe
+c:\users\ditto_000\documents\visual studio 2013\Projects\Picture Viewer Test\Picture Viewer Test\obj\Debug\Picture Viewer Test.pdb

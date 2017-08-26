@@ -1,0 +1,52 @@
+﻿Build started 10/26/2015 11:00:01 PM.
+     1>Project "C:\Users\ditto_000\documents\visual studio 2013\Projects\HashingAssignment\HashingAssignment\HashingAssignment.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\ditto_000\documents\visual studio 2013\projects\hashingassignment\hashingassignment\main.cpp(61): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ditto_000\documents\visual studio 2013\projects\hashingassignment\hashingassignment\hashtable.h(96): warning C4018: '<' : signed/unsigned mismatch
+                 c:\users\ditto_000\documents\visual studio 2013\projects\hashingassignment\hashingassignment\hashtable.h(89) : while compiling class template member function 'int HashTable<std::string,GameWord>::findPos(const HashKey &,bool)'
+                 with
+                 [
+                     HashKey=std::string
+                 ]
+                 c:\users\ditto_000\documents\visual studio 2013\projects\hashingassignment\hashingassignment\hashtable.h(187) : see reference to function template instantiation 'int HashTable<std::string,GameWord>::findPos(const HashKey &,bool)' being compiled
+                 with
+                 [
+                     HashKey=std::string
+                 ]
+                 c:\users\ditto_000\documents\visual studio 2013\projects\hashingassignment\hashingassignment\hashtable.h(185) : while compiling class template member function 'GameWord *HashTable<std::string,GameWord>::insert(const HashKey,HashRecord *)'
+                 with
+                 [
+                     HashKey=std::string
+         ,            HashRecord=GameWord
+                 ]
+                 c:\users\ditto_000\documents\visual studio 2013\projects\hashingassignment\hashingassignment\main.cpp(99) : see reference to function template instantiation 'GameWord *HashTable<std::string,GameWord>::insert(const HashKey,HashRecord *)' being compiled
+                 with
+                 [
+                     HashKey=std::string
+         ,            HashRecord=GameWord
+                 ]
+                 c:\users\ditto_000\documents\visual studio 2013\projects\hashingassignment\hashingassignment\main.cpp(81) : see reference to class template instantiation 'HashTable<std::string,GameWord>' being compiled
+     1>c:\users\ditto_000\documents\visual studio 2013\projects\hashingassignment\hashingassignment\hashtable.h(164): warning C4018: '<' : signed/unsigned mismatch
+                 c:\users\ditto_000\documents\visual studio 2013\projects\hashingassignment\hashingassignment\hashtable.h(162) : while compiling class template member function 'int HashTable<std::string,GameWord>::myhash(const HashKey &) const'
+                 with
+                 [
+                     HashKey=std::string
+                 ]
+                 c:\users\ditto_000\documents\visual studio 2013\projects\hashingassignment\hashingassignment\hashtable.h(92) : see reference to function template instantiation 'int HashTable<std::string,GameWord>::myhash(const HashKey &) const' being compiled
+                 with
+                 [
+                     HashKey=std::string
+                 ]
+                 c:\users\ditto_000\documents\visual studio 2013\projects\hashingassignment\hashingassignment\hashtable.h(155) : while compiling class template member function 'bool HashTable<std::string,GameWord>::isActive(int) const'
+                 c:\users\ditto_000\documents\visual studio 2013\projects\hashingassignment\hashingassignment\hashtable.h(188) : see reference to function template instantiation 'bool HashTable<std::string,GameWord>::isActive(int) const' being compiled
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ditto_000\documents\visual studio 2013\Projects\HashingAssignment\Debug\HashingAssignment.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\ditto_000\documents\visual studio 2013\Projects\HashingAssignment\Debug\HashingAssignment.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ditto_000\documents\visual studio 2013\Projects\HashingAssignment\Debug\HashingAssignment.lib" /MACHINE:X86 Debug\Hashtable.obj
+         Debug\main.obj
+         HashingAssignment.vcxproj -> C:\Users\ditto_000\documents\visual studio 2013\Projects\HashingAssignment\Debug\HashingAssignment.exe
+     1>Done Building Project "C:\Users\ditto_000\documents\visual studio 2013\Projects\HashingAssignment\HashingAssignment\HashingAssignment.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.17

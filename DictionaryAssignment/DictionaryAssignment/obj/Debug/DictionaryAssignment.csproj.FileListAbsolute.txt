@@ -1,0 +1,8 @@
+c:\users\ditto_000\documents\visual studio 2013\Projects\DictionaryAssignment\DictionaryAssignment\bin\Debug\DictionaryAssignment.exe.config
+c:\users\ditto_000\documents\visual studio 2013\Projects\DictionaryAssignment\DictionaryAssignment\bin\Debug\DictionaryAssignment.exe
+c:\users\ditto_000\documents\visual studio 2013\Projects\DictionaryAssignment\DictionaryAssignment\bin\Debug\DictionaryAssignment.pdb
+c:\users\ditto_000\documents\visual studio 2013\Projects\DictionaryAssignment\DictionaryAssignment\obj\Debug\DictionaryAssignment.csprojResolveAssemblyReference.cache
+c:\users\ditto_000\documents\visual studio 2013\Projects\DictionaryAssignment\DictionaryAssignment\obj\Debug\DictionaryAssignment.Properties.Resources.resources
+c:\users\ditto_000\documents\visual studio 2013\Projects\DictionaryAssignment\DictionaryAssignment\obj\Debug\DictionaryAssignment.csproj.GenerateResource.Cache
+c:\users\ditto_000\documents\visual studio 2013\Projects\DictionaryAssignment\DictionaryAssignment\obj\Debug\DictionaryAssignment.exe
+c:\users\ditto_000\documents\visual studio 2013\Projects\DictionaryAssignment\DictionaryAssignment\obj\Debug\DictionaryAssignment.pdb

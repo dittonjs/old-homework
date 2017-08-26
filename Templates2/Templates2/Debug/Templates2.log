@@ -1,0 +1,35 @@
+﻿Build started 3/31/2015 2:01:30 AM.
+     1>Project "c:\Users\ditto_000\documents\visual studio 2013\Projects\Templates2\Templates2\Templates2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\TemplateHomework\TemplateHomework\main.cpp
+         main.cpp
+     1>c:\users\ditto_000\documents\visual studio 2013\projects\templatehomework\templatehomework\tustack.h(159): error C2593: 'operator =' is ambiguous
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\xstring(1017): could be 'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(_Elem)'
+                 with
+                 [
+                     _Elem=char
+                 ]
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\xstring(1012): or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(const _Elem *)'
+                 with
+                 [
+                     _Elem=char
+                 ]
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\xstring(996): or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &)'
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\xstring(957): or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(std::initializer_list<_Elem>)'
+                 with
+                 [
+                     _Elem=char
+                 ]
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\xstring(901): or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&) throw()'
+                 while trying to match the argument list '(std::string, int)'
+                 c:\users\ditto_000\documents\visual studio 2013\projects\templatehomework\templatehomework\tustack.h(149) : while compiling class template member function 'std::string TUStack<std::string>::Pop(void)'
+                 c:\users\ditto_000\documents\visual studio 2013\projects\templatehomework\templatehomework\main.cpp(51) : see reference to function template instantiation 'std::string TUStack<std::string>::Pop(void)' being compiled
+                 c:\users\ditto_000\documents\visual studio 2013\projects\templatehomework\templatehomework\main.cpp(12) : see reference to class template instantiation 'TUStack<std::string>' being compiled
+     1>c:\users\ditto_000\documents\visual studio 2013\projects\templatehomework\templatehomework\tustack.h(189): warning C4390: ';' : empty controlled statement found; is this the intent?
+                 c:\users\ditto_000\documents\visual studio 2013\projects\templatehomework\templatehomework\tustack.h(187) : while compiling class template member function 'TUStack<std::string>::~TUStack(void)'
+                 c:\users\ditto_000\documents\visual studio 2013\projects\templatehomework\templatehomework\main.cpp(12) : see reference to function template instantiation 'TUStack<std::string>::~TUStack(void)' being compiled
+     1>Done Building Project "c:\Users\ditto_000\documents\visual studio 2013\Projects\Templates2\Templates2\Templates2.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.02

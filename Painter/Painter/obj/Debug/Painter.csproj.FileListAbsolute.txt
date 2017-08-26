@@ -1,0 +1,9 @@
+c:\users\ditto_000\documents\visual studio 2013\Projects\Painter\Painter\bin\Debug\Painter.exe.config
+c:\users\ditto_000\documents\visual studio 2013\Projects\Painter\Painter\bin\Debug\Painter.exe
+c:\users\ditto_000\documents\visual studio 2013\Projects\Painter\Painter\bin\Debug\Painter.pdb
+c:\users\ditto_000\documents\visual studio 2013\Projects\Painter\Painter\obj\Debug\Painter.csprojResolveAssemblyReference.cache
+c:\users\ditto_000\documents\visual studio 2013\Projects\Painter\Painter\obj\Debug\Painter.PainterForm.resources
+c:\users\ditto_000\documents\visual studio 2013\Projects\Painter\Painter\obj\Debug\Painter.Properties.Resources.resources
+c:\users\ditto_000\documents\visual studio 2013\Projects\Painter\Painter\obj\Debug\Painter.csproj.GenerateResource.Cache
+c:\users\ditto_000\documents\visual studio 2013\Projects\Painter\Painter\obj\Debug\Painter.exe
+c:\users\ditto_000\documents\visual studio 2013\Projects\Painter\Painter\obj\Debug\Painter.pdb

@@ -1,0 +1,49 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch14\Fig14_38\Painter\Painter\bin\Debug\Painter.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch14\Fig14_38\Painter\Painter\bin\Debug\Painter.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch14\Fig14_38\Painter\Painter\obj\x86\Debug\Painter.PainterForm.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch14\Fig14_38\Painter\Painter\obj\x86\Debug\Painter.Properties.Resources.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch14\Fig14_38\Painter\Painter\obj\x86\Debug\Painter.csproj.GenerateResource.Cache
+C:\books\2012\VCSHARP2012HTP\examples\ch14\Fig14_38\Painter\Painter\obj\x86\Debug\Painter.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch14\Fig14_38\Painter\Painter\obj\x86\Debug\Painter.pdb
+F:\CS 3420 - C#\CS 3420 - C# programming\#15\15_1_Painter\Painter\obj\x86\Debug\Painter.exe
+F:\CS 3420 - C#\CS 3420 - C# programming\#15\15_1_Painter\Painter\obj\x86\Debug\Painter.pdb
+F:\CS 3420 - C#\CS 3420 - C# programming\#15\15_1_Painter\Painter\bin\Debug\Painter.exe
+F:\CS 3420 - C#\CS 3420 - C# programming\#15\15_1_Painter\Painter\bin\Debug\Painter.pdb
+F:\CS 3420 - C#\CS 3420 - C# programming\#15\15_1_Painter\Painter\obj\x86\Debug\Painter.csprojResolveAssemblyReference.cache
+F:\CS 3420 - C#\CS 3420 - C# programming\#15\15_1_Painter\Painter\obj\x86\Debug\Painter.PainterForm.resources
+F:\CS 3420 - C#\CS 3420 - C# programming\#15\15_1_Painter\Painter\obj\x86\Debug\Painter.Properties.Resources.resources
+F:\CS 3420 - C#\CS 3420 - C# programming\#15\15_1_Painter\Painter\obj\x86\Debug\Painter.csproj.GenerateResource.Cache
+F:\CS 3420 - C#\CS 3420 - C# programming\#15\15_1_Painter - Copy\Painter\obj\x86\Debug\Painter.exe
+F:\CS 3420 - C#\CS 3420 - C# programming\#15\15_1_Painter - Copy\Painter\obj\x86\Debug\Painter.pdb
+F:\CS 3420 - C#\CS 3420 - C# programming\#15\15_1_Painter - Copy\Painter\bin\Debug\Painter.exe
+F:\CS 3420 - C#\CS 3420 - C# programming\#15\15_1_Painter - Copy\Painter\bin\Debug\Painter.pdb
+F:\CS 3420 - C#\CS 3420 - C# programming\#15\15_1_Painter - Copy\Painter\obj\x86\Debug\Painter.csprojResolveAssemblyReference.cache
+F:\CS 3420 - C#\CS 3420 - C# programming\#15\15_1_Painter - Copy\Painter\obj\x86\Debug\Painter.PainterForm.resources
+F:\CS 3420 - C#\CS 3420 - C# programming\#15\15_1_Painter - Copy\Painter\obj\x86\Debug\Painter.Properties.Resources.resources
+F:\CS 3420 - C#\CS 3420 - C# programming\#15\15_1_Painter - Copy\Painter\obj\x86\Debug\Painter.csproj.GenerateResource.Cache
+F:\CS 3420 - C#\CS 3420 - C# programming\#15\15_2_EnhancedPainter\Painter\obj\x86\Debug\Painter.exe
+F:\CS 3420 - C#\CS 3420 - C# programming\#15\15_2_EnhancedPainter\Painter\obj\x86\Debug\Painter.pdb
+F:\CS 3420 - C#\CS 3420 - C# programming\#15\15_2_EnhancedPainter\Painter\bin\Debug\Painter.exe
+F:\CS 3420 - C#\CS 3420 - C# programming\#15\15_2_EnhancedPainter\Painter\bin\Debug\Painter.pdb
+F:\CS 3420 - C#\CS 3420 - C# programming\#15\15_2_EnhancedPainter\Painter\obj\x86\Debug\Painter.csprojResolveAssemblyReference.cache
+F:\CS 3420 - C#\CS 3420 - C# programming\#15\15_2_EnhancedPainter\Painter\obj\x86\Debug\Painter.PainterForm.resources
+F:\CS 3420 - C#\CS 3420 - C# programming\#15\15_2_EnhancedPainter\Painter\obj\x86\Debug\Painter.Properties.Resources.resources
+F:\CS 3420 - C#\CS 3420 - C# programming\#15\15_2_EnhancedPainter\Painter\obj\x86\Debug\Painter.csproj.GenerateResource.Cache
+C:\Users\Laleh\Documents\cs2412\Lectures\11\11-2-EnhancedPainter\Painter\obj\x86\Debug\Painter.exe
+C:\Users\Laleh\Documents\cs2412\Lectures\11\11-2-EnhancedPainter\Painter\obj\x86\Debug\Painter.pdb
+C:\Users\Laleh\Documents\cs2412\Lectures\11\11-2-EnhancedPainter\Painter\bin\Debug\Painter.exe
+C:\Users\Laleh\Documents\cs2412\Lectures\11\11-2-EnhancedPainter\Painter\bin\Debug\Painter.pdb
+C:\Users\Laleh\Documents\cs2412\Lectures\11\11-2-EnhancedPainter\Painter\obj\x86\Debug\Painter.csprojResolveAssemblyReference.cache
+C:\Users\Laleh\Documents\cs2412\Lectures\11\11-2-EnhancedPainter\Painter\obj\x86\Debug\Painter.PainterForm.resources
+C:\Users\Laleh\Documents\cs2412\Lectures\11\11-2-EnhancedPainter\Painter\obj\x86\Debug\Painter.Properties.Resources.resources
+C:\Users\Laleh\Documents\cs2412\Lectures\11\11-2-EnhancedPainter\Painter\obj\x86\Debug\Painter.csproj.GenerateResource.Cache
+C:\Users\ditto_000\Documents\Visual Studio 2013\Projects\11-2-EnhancedPainter\11-2-EnhancedPainter\Painter\obj\x86\Debug\Painter.exe
+C:\Users\ditto_000\Documents\Visual Studio 2013\Projects\11-2-EnhancedPainter\11-2-EnhancedPainter\Painter\obj\x86\Debug\Painter.pdb
+C:\Users\ditto_000\Documents\Visual Studio 2013\Projects\11-2-EnhancedPainter\11-2-EnhancedPainter\Painter\obj\x86\Debug\Painter.csprojResolveAssemblyReference.cache
+C:\Users\ditto_000\Documents\Visual Studio 2013\Projects\11-2-EnhancedPainter\11-2-EnhancedPainter\Painter\obj\x86\Debug\Painter.PainterForm.resources
+C:\Users\ditto_000\Documents\Visual Studio 2013\Projects\11-2-EnhancedPainter\11-2-EnhancedPainter\Painter\obj\x86\Debug\Painter.Properties.Resources.resources
+C:\Users\ditto_000\Documents\Visual Studio 2013\Projects\11-2-EnhancedPainter\11-2-EnhancedPainter\Painter\obj\x86\Debug\Painter.csproj.GenerateResource.Cache
+C:\Users\ditto_000\Documents\Visual Studio 2013\Projects\11-2-EnhancedPainter\11-2-EnhancedPainter\Painter\bin\Debug\Painter.exe
+C:\Users\ditto_000\Documents\Visual Studio 2013\Projects\11-2-EnhancedPainter\11-2-EnhancedPainter\Painter\bin\Debug\Painter.pdb
+C:\Users\ditto_000\Documents\Visual Studio 2013\Projects\11-2-EnhancedPainter\11-2-EnhancedPainter\Painter\bin\Debug\ColorLibrary.dll
+C:\Users\ditto_000\Documents\Visual Studio 2013\Projects\11-2-EnhancedPainter\11-2-EnhancedPainter\Painter\bin\Debug\ColorLibrary.pdb

@@ -1,0 +1,394 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="4player.in.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="forts.in.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="map.in.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="map2.in.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="map3.in.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="map4.in.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="map6.in.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="map7.in.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="navy.in.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="The Arena.in.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="Twists_Turns.in.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="a.out">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="map1.in">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="tla2">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="tla3">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="tlas">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="Twists&amp;Turns.in">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="acs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="acy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="als.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ama.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="amb.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ask.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bhg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bob.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cbg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cdj.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cdv.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cfl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cgm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cjs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cmr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="crr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="dah.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="dww.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ewh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="fts.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="gbm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="gdo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ggv.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="gwb.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="jcl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="jcs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="jgh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="jkc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="kbl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="kp7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lif.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lionheart.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mav.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mmk.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mpt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="nmn.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="oku.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pja.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pwr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="rac.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="rhw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="rkt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sam.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ski.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sol.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="swc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tah.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="trj.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="unit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="wig.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="zjt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="trd.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="acs.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="acy.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="als.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ama.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="amb.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ask.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bhg.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bob.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cbg.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cdj.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cdv.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cfl.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cgm.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cjs.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cmr.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="crr.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="dah.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="dww.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ewh.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="fts.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="gbm.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="gdo.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ggv.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="gwb.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="jcl.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="jcs.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="jgh.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="jkc.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="jsd.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="kbl.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="kp7.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="lif.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="lionheart.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="lionheart2.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mav.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mmk.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mpt.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="nmn.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="oku.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pja.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pwr.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="rac.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="rhw.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="rkt.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sam.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ski.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sol.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="swc.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="tah.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="trj.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="unit.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="wig.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="zjt.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="trd.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

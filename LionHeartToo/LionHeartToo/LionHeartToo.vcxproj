@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="4player.in.txt" />
+    <Text Include="forts.in.txt" />
+    <Text Include="map.in.txt" />
+    <Text Include="map2.in.txt" />
+    <Text Include="map3.in.txt" />
+    <Text Include="map4.in.txt" />
+    <Text Include="map6.in.txt" />
+    <Text Include="map7.in.txt" />
+    <Text Include="navy.in.txt" />
+    <Text Include="The Arena.in.txt" />
+    <Text Include="Twists_Turns.in.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="a.out" />
+    <None Include="map1.in" />
+    <None Include="tla2" />
+    <None Include="tla3" />
+    <None Include="tlas" />
+    <None Include="Twists&amp;Turns.in" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="acs.cpp" />
+    <ClCompile Include="acy.cpp" />
+    <ClCompile Include="als.cpp" />
+    <ClCompile Include="ama.cpp" />
+    <ClCompile Include="amb.cpp" />
+    <ClCompile Include="ask.cpp" />
+    <ClCompile Include="bhg.cpp" />
+    <ClCompile Include="bob.cpp" />
+    <ClCompile Include="cbg.cpp" />
+    <ClCompile Include="cdj.cpp" />
+    <ClCompile Include="cdv.cpp" />
+    <ClCompile Include="cfl.cpp" />
+    <ClCompile Include="cgm.cpp" />
+    <ClCompile Include="cjs.cpp" />
+    <ClCompile Include="cmr.cpp" />
+    <ClCompile Include="crr.cpp" />
+    <ClCompile Include="dah.cpp" />
+    <ClCompile Include="dww.cpp" />
+    <ClCompile Include="ewh.cpp" />
+    <ClCompile Include="fts.cpp" />
+    <ClCompile Include="gbm.cpp" />
+    <ClCompile Include="gdo.cpp" />
+    <ClCompile Include="ggv.cpp" />
+    <ClCompile Include="gwb.cpp" />
+    <ClCompile Include="jcl.cpp" />
+    <ClCompile Include="jcs.cpp" />
+    <ClCompile Include="jgh.cpp" />
+    <ClCompile Include="jkc.cpp" />
+    <ClCompile Include="kbl.cpp" />
+    <ClCompile Include="kp7.cpp" />
+    <ClCompile Include="lif.cpp" />
+    <ClCompile Include="lionheart.cpp" />
+    <ClCompile Include="mav.cpp" />
+    <ClCompile Include="mmk.cpp" />
+    <ClCompile Include="mpt.cpp" />
+    <ClCompile Include="nmn.cpp" />
+    <ClCompile Include="oku.cpp" />
+    <ClCompile Include="pja.cpp" />
+    <ClCompile Include="pwr.cpp" />
+    <ClCompile Include="rac.cpp" />
+    <ClCompile Include="rhw.cpp" />
+    <ClCompile Include="rkt.cpp" />
+    <ClCompile Include="sam.cpp" />
+    <ClCompile Include="ski.cpp" />
+    <ClCompile Include="sol.cpp" />
+    <ClCompile Include="swc.cpp" />
+    <ClCompile Include="tah.cpp" />
+    <ClCompile Include="trd.cpp" />
+    <ClCompile Include="trj.cpp" />
+    <ClCompile Include="unit.cpp" />
+    <ClCompile Include="wig.cpp" />
+    <ClCompile Include="zjt.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="acs.h" />
+    <ClInclude Include="acy.h" />
+    <ClInclude Include="als.h" />
+    <ClInclude Include="ama.h" />
+    <ClInclude Include="amb.h" />
+    <ClInclude Include="ask.h" />
+    <ClInclude Include="bhg.h" />
+    <ClInclude Include="bob.h" />
+    <ClInclude Include="cbg.h" />
+    <ClInclude Include="cdj.h" />
+    <ClInclude Include="cdv.h" />
+    <ClInclude Include="cfl.h" />
+    <ClInclude Include="cgm.h" />
+    <ClInclude Include="cjs.h" />
+    <ClInclude Include="cmr.h" />
+    <ClInclude Include="crr.h" />
+    <ClInclude Include="dah.h" />
+    <ClInclude Include="dww.h" />
+    <ClInclude Include="ewh.h" />
+    <ClInclude Include="fts.h" />
+    <ClInclude Include="gbm.h" />
+    <ClInclude Include="gdo.h" />
+    <ClInclude Include="ggv.h" />
+    <ClInclude Include="gwb.h" />
+    <ClInclude Include="jcl.h" />
+    <ClInclude Include="jcs.h" />
+    <ClInclude Include="jgh.h" />
+    <ClInclude Include="jkc.h" />
+    <ClInclude Include="jsd.h" />
+    <ClInclude Include="kbl.h" />
+    <ClInclude Include="kp7.h" />
+    <ClInclude Include="lif.h" />
+    <ClInclude Include="lionheart.h" />
+    <ClInclude Include="lionheart2.h" />
+    <ClInclude Include="mav.h" />
+    <ClInclude Include="mmk.h" />
+    <ClInclude Include="mpt.h" />
+    <ClInclude Include="nmn.h" />
+    <ClInclude Include="oku.h" />
+    <ClInclude Include="pja.h" />
+    <ClInclude Include="pwr.h" />
+    <ClInclude Include="rac.h" />
+    <ClInclude Include="rhw.h" />
+    <ClInclude Include="rkt.h" />
+    <ClInclude Include="sam.h" />
+    <ClInclude Include="ski.h" />
+    <ClInclude Include="sol.h" />
+    <ClInclude Include="swc.h" />
+    <ClInclude Include="tah.h" />
+    <ClInclude Include="trd.h" />
+    <ClInclude Include="trj.h" />
+    <ClInclude Include="unit.h" />
+    <ClInclude Include="wig.h" />
+    <ClInclude Include="zjt.h" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{CE6BC61B-E581-4956-816E-B6BF9D0E2FAD}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>LionHeartToo</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;_LIB;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;_LIB;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

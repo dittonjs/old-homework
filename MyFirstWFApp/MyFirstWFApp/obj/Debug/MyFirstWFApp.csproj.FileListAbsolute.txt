@@ -1,0 +1,9 @@
+c:\users\ditto_000\documents\visual studio 2013\Projects\MyFirstWFApp\MyFirstWFApp\bin\Debug\MyFirstWFApp.exe.config
+c:\users\ditto_000\documents\visual studio 2013\Projects\MyFirstWFApp\MyFirstWFApp\bin\Debug\MyFirstWFApp.exe
+c:\users\ditto_000\documents\visual studio 2013\Projects\MyFirstWFApp\MyFirstWFApp\bin\Debug\MyFirstWFApp.pdb
+c:\users\ditto_000\documents\visual studio 2013\Projects\MyFirstWFApp\MyFirstWFApp\obj\Debug\MyFirstWFApp.csprojResolveAssemblyReference.cache
+c:\users\ditto_000\documents\visual studio 2013\Projects\MyFirstWFApp\MyFirstWFApp\obj\Debug\MyFirstWFApp.MyForm.resources
+c:\users\ditto_000\documents\visual studio 2013\Projects\MyFirstWFApp\MyFirstWFApp\obj\Debug\MyFirstWFApp.Properties.Resources.resources
+c:\users\ditto_000\documents\visual studio 2013\Projects\MyFirstWFApp\MyFirstWFApp\obj\Debug\MyFirstWFApp.csproj.GenerateResource.Cache
+c:\users\ditto_000\documents\visual studio 2013\Projects\MyFirstWFApp\MyFirstWFApp\obj\Debug\MyFirstWFApp.exe
+c:\users\ditto_000\documents\visual studio 2013\Projects\MyFirstWFApp\MyFirstWFApp\obj\Debug\MyFirstWFApp.pdb

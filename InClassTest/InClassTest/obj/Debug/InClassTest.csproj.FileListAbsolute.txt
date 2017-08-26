@@ -1,0 +1,9 @@
+c:\users\ditto_000\documents\visual studio 2013\Projects\InClassTest\InClassTest\bin\Debug\InClassTest.exe.config
+c:\users\ditto_000\documents\visual studio 2013\Projects\InClassTest\InClassTest\bin\Debug\InClassTest.exe
+c:\users\ditto_000\documents\visual studio 2013\Projects\InClassTest\InClassTest\bin\Debug\InClassTest.pdb
+c:\users\ditto_000\documents\visual studio 2013\Projects\InClassTest\InClassTest\obj\Debug\InClassTest.csprojResolveAssemblyReference.cache
+c:\users\ditto_000\documents\visual studio 2013\Projects\InClassTest\InClassTest\obj\Debug\InClassTest.BoxesForm.resources
+c:\users\ditto_000\documents\visual studio 2013\Projects\InClassTest\InClassTest\obj\Debug\InClassTest.Properties.Resources.resources
+c:\users\ditto_000\documents\visual studio 2013\Projects\InClassTest\InClassTest\obj\Debug\InClassTest.csproj.GenerateResource.Cache
+c:\users\ditto_000\documents\visual studio 2013\Projects\InClassTest\InClassTest\obj\Debug\InClassTest.exe
+c:\users\ditto_000\documents\visual studio 2013\Projects\InClassTest\InClassTest\obj\Debug\InClassTest.pdb

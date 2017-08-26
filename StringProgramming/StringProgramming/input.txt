@@ -1,0 +1,15 @@
+MAP 5 5
+__D__
+G____
+___G_
+D____
+___D_
+robot 3 3 EAST
+MOVE 1
+PICKUP
+MOVE -1
+ROTATE 90.0
+MOVE 1
+PICKUP
+MOVE -1
+QUIT

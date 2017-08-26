@@ -1,0 +1,14 @@
+﻿Build started 2/15/2015 9:35:19 PM.
+     1>Project "C:\Users\ditto_000\documents\visual studio 2013\Projects\BankAccountBinary\BankAccountBinary\BankAccountBinary.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt mainInsert.cpp
+         mainInsert.cpp
+     1>c:\users\ditto_000\documents\visual studio 2013\projects\bankaccountbinary\bankaccountbinary\maininsert.cpp(35): warning C4101: 'index' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ditto_000\documents\visual studio 2013\Projects\BankAccountBinary\Debug\BankAccountBinary.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\ditto_000\documents\visual studio 2013\Projects\BankAccountBinary\Debug\BankAccountBinary.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ditto_000\documents\visual studio 2013\Projects\BankAccountBinary\Debug\BankAccountBinary.lib" /MACHINE:X86 Debug\mainInsert.obj
+         BankAccountBinary.vcxproj -> C:\Users\ditto_000\documents\visual studio 2013\Projects\BankAccountBinary\Debug\BankAccountBinary.exe
+     1>Done Building Project "C:\Users\ditto_000\documents\visual studio 2013\Projects\BankAccountBinary\BankAccountBinary\BankAccountBinary.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.29

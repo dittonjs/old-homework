@@ -1,0 +1,9 @@
+c:\users\ditto_000\documents\visual studio 2013\Projects\TypingTutor\TypingTutor\bin\Debug\TypingTutor.exe.config
+c:\users\ditto_000\documents\visual studio 2013\Projects\TypingTutor\TypingTutor\bin\Debug\TypingTutor.exe
+c:\users\ditto_000\documents\visual studio 2013\Projects\TypingTutor\TypingTutor\bin\Debug\TypingTutor.pdb
+c:\users\ditto_000\documents\visual studio 2013\Projects\TypingTutor\TypingTutor\obj\Debug\TypingTutor.csprojResolveAssemblyReference.cache
+c:\users\ditto_000\documents\visual studio 2013\Projects\TypingTutor\TypingTutor\obj\Debug\TypingTutor.mainForm.resources
+c:\users\ditto_000\documents\visual studio 2013\Projects\TypingTutor\TypingTutor\obj\Debug\TypingTutor.Properties.Resources.resources
+c:\users\ditto_000\documents\visual studio 2013\Projects\TypingTutor\TypingTutor\obj\Debug\TypingTutor.csproj.GenerateResource.Cache
+c:\users\ditto_000\documents\visual studio 2013\Projects\TypingTutor\TypingTutor\obj\Debug\TypingTutor.exe
+c:\users\ditto_000\documents\visual studio 2013\Projects\TypingTutor\TypingTutor\obj\Debug\TypingTutor.pdb

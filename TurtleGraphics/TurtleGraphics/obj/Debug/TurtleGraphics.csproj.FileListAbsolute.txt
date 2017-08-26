@@ -1,0 +1,6 @@
+c:\users\ditto_000\documents\visual studio 2013\Projects\TurtleGraphics\TurtleGraphics\bin\Debug\TurtleGraphics.exe.config
+C:\Users\ditto_000\Documents\Visual Studio 2013\Projects\TurtleGraphics\TurtleGraphics\obj\Debug\TurtleGraphics.csprojResolveAssemblyReference.cache
+C:\Users\ditto_000\Documents\Visual Studio 2013\Projects\TurtleGraphics\TurtleGraphics\bin\Debug\TurtleGraphics.exe
+C:\Users\ditto_000\Documents\Visual Studio 2013\Projects\TurtleGraphics\TurtleGraphics\bin\Debug\TurtleGraphics.pdb
+C:\Users\ditto_000\Documents\Visual Studio 2013\Projects\TurtleGraphics\TurtleGraphics\obj\Debug\TurtleGraphics.exe
+C:\Users\ditto_000\Documents\Visual Studio 2013\Projects\TurtleGraphics\TurtleGraphics\obj\Debug\TurtleGraphics.pdb
